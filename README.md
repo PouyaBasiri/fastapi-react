@@ -1,3 +1,10 @@
+![Backend CI](https://github.com/PouyaBasiri/fastapi-react/actions/workflows/backend-ci.yml/badge.svg)
+![Frontend CI](https://github.com/PouyaBasiri/fastapi-react/actions/workflows/frontend-ci.yml/badge.svg)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+
+
 📦 FastAPI + React Full‑Stack Application
 
 A modern full‑stack web application built with FastAPI, React + TypeScript, TailwindCSS, Docker, and Docker Compose.
@@ -85,4 +92,5 @@ Deploy to Render / Railway / VPS
 
 📄 License
 This project is open‑source and available under the MIT License.
+
 
